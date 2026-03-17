@@ -47,31 +47,38 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test:
+Tabulation for Open Circuit Test
 
-<img width="1062" height="912" alt="image" src="https://github.com/user-attachments/assets/d74c9360-6b67-488c-912d-505817c61a38" />
+![image](https://github.com/Abhinavguru-cse/EXP-2/blob/main/11.jpeg?raw=true)
+
 
 
 Tabulation for Load Test:
 
-<img width="1049" height="654" alt="image" src="https://github.com/user-attachments/assets/2a7b830b-2d12-4f08-a8be-df8122343bf6" />
+![image](https://github.com/Abhinavguru-cse/EXP-2/blob/main/12WhatsApp%20Image%202026-03-16%20at%2011.46.28%20AM.jpeg?raw=true)
 
 
 Model graph:
-<img width="1051" height="698" alt="image" src="https://github.com/user-attachments/assets/496361cb-54d5-452f-9c37-f3135bf01687" />
 
-<img width="1071" height="683" alt="image" src="https://github.com/user-attachments/assets/140d382c-7584-44c4-8874-585a3fa83d19" />
+
+![image](https://github.com/Abhinavguru-cse/EXP-2/blob/main/13WhatsApp%20Image%202026-03-16%20at%2011.46.29%20AM.jpeg?raw=true)
+
 
 Calculation: 
 
+
+![image](https://github.com/Abhinavguru-cse/EXP-2/blob/main/14WhatsApp%20Image%202026-03-16%20at%2011.46.34%20AM.jpeg?raw=true)
+
 Open circuit characteristics
-<img width="1068" height="803" alt="image" src="https://github.com/user-attachments/assets/cd232dad-4dcb-45cd-af3c-eb128b49f4c6" />
 
 
+![image](https://github.com/Abhinavguru-cse/EXP-2/blob/main/Screenshot%202026-03-16%20114715.png?raw=true)
   
 Load Characteristics:
-<img width="1078" height="474" alt="image" src="https://github.com/user-attachments/assets/711c3b19-2f0d-4518-b66e-0e6f5e4bf624" />
 
+
+
+![image](https://github.com/Abhinavguru-cse/EXP-2/blob/main/Screenshot%202026-03-16%20114707.png?raw=true)
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
